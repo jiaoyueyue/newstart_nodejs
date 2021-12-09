@@ -9,7 +9,8 @@
     "test": "tests"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "utility": "^1.17.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
