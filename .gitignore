@@ -1,0 +1,19 @@
+# Referenced from https://github.com/github/gitignore/blob/master/Node.gitignore
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+.vscode
+
+# Dependency directories
+node_modules/
+
+# other stuff
+.DS_Store
+Thumbs.db
+
+# IDE configurations
+.idea
+.vscode

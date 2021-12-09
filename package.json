@@ -8,8 +8,9 @@
     "lib": "lib",
     "test": "tests"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
