@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0040" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-12-14T02:24:04" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="test/main.test.js" timestamp="2021-12-14T02:24:04" tests="1" file="/Users/jiaoyueyue/practice/newstart_nodejs/tests/main.test.js" time="0.0020" failures="0">
+    <testcase name="test/main.test.js should equal 55 when n === 10" time="0.0010" classname="should equal 55 when n === 10">
+    </testcase>
+  </testsuite>
+</testsuites>
